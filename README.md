@@ -50,11 +50,17 @@
 ## 📬 Контакты
 
 <p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="[https://shields.io](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram DM" />
-  </a>
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Feedback Bot" />
+  <strong>Личные сообщения:</strong><br />
+  <a href="https://t.me/aqua_why" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ЛС" />
   </a>
 </p>
+
+<p align="left">
+  <strong>Бот обратной связи:</strong><br />
+  <a href="https://t.me/replyaqua_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Бот" />
+  </a>
+</p>
+
 
