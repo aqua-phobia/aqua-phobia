@@ -1,20 +1,19 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=35&pause=1000&color=F7F7F7&width=735&lines=AQUA-PHOBIA;FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="#-о-себе">О себе</a> •
   <a href="#-технологический-стек">Стек технологий</a> •
-  <a href="#-статистика">Статистика активности</a> •
+  <a href="#-статистика-активности">Статистика активности</a> •
   <a href="#-контакты">Контакты</a>
 </p>
 
 </div>
 
-
 ---
-
 
 ## 👤 О себе
 
@@ -23,7 +22,6 @@
 * 🌐 **Frontend** — создаю адаптивные, быстрые и визуально привлекательные интерфейсы, уделяя внимание каждой детали.
 * 🤖 **Telegram-экосистема** — автоматизирую бизнес-процессы, пишу кастомных ботов, настраиваю сложные механики взаимодействия и WebApps.
 * ⚙️ **Backend & Data** — проектирую надежную серверную логику, интегрирую внешние API и выстраиваю архитектуру баз данных.
-
 
 ---
 
@@ -54,20 +52,23 @@
 
 ---
 
+## 📊 Статистика активности
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📬 Контакты
 
 <p align="left">
-  <strong>Личные сообщения:</strong><br />
-  <a href="https://t.me/aqua_why" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ЛС" />
-  </a>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> 
+  <strong>Личные сообщения:</strong> <a href="https://t.me/aqua_why" target="_blank">@aqua_why</a>
 </p>
 
 <p align="left">
-  <strong>Бот обратной связи:</strong><br />
-  <a href="https://t.me/replyaqua_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Бот" />
-  </a>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Бот" /> 
+  <strong>Бот обратной связи:</strong> <a href="https://t.me/replyaqua_bot" target="_blank">@replyaqua_bot</a>
 </p>
-
-
