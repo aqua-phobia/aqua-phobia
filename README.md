@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram DM" />
+    <img src="[https://shields.io](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram DM" />
   </a>
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Feedback Bot" />
