@@ -50,10 +50,11 @@
 ## 📬 Контакты
 
 <p align="left">
-  <a href="https://t.me/aqua_why" target="_blank">
-    <img src="https://shields.io" alt="Telegram ЛС" />
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram DM" />
   </a>
-  <a href="https://t.me/replyaqua_bot" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Feedback Bot" />
   </a>
 </p>
+
