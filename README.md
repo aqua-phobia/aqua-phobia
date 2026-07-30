@@ -2,7 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=35&pause=1000&color=F7F7F7&width=735&lines=AQUA-PHOBIA;FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
 
-
 <p align="center">
   <a href="#-о-себе">О себе</a> •
   <a href="#-технологический-стек">Стек технологий</a> •
