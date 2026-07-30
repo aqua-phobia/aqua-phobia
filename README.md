@@ -16,11 +16,7 @@
 
 ## 👤 О себе
 
-Привет! Я Fullstack-разработчик. Специализируюсь на создании современных, быстрых и масштабируемых веб-приложений. Люблю проектировать как отзывчивые интерфейсы на стороне фронтенда, так и эффективную архитектуру на бэкенде.
-
-- 🚀 Сейчас активно разрабатываю проекты на **Next.js** и оптимизирую работу с базами данных
-- 🛠 Стремлюсь писать чистый, поддерживаемый код и переиспользуемые компоненты
-- 🌊 Всегда открыт для новых сложных задач и крутых Open Source инициатив
+Привет! Я Fullstack-разработчик. Специализируюсь на Frontend-разработке и создании Telegram-ботов любой сложности. Разрабатываю современные веб-интерфейсы, автоматизирую процессы, работаю с API, базами данных и создаю удобные решения для Telegram.
 
 ---
 
@@ -51,24 +47,13 @@
 
 ---
 
-## 📊 Статистика
-
-<div align="center">
-
-<img src="https://vercel.app" alt="GitHub Stats" height="180" />
-<img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
-
-</div>
-
----
-
 ## 📬 Контакты
 
 <p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+  <a href="https://t.me/aqua_why" target="_blank">
+    <img src="https://shields.io" alt="Telegram ЛС" />
   </a>
-  <a href="mailto:ваш_email@example.com">
-    <img src="https://shields.io" alt="Email" />
+  <a href="https://t.me/replyaqua_bot" target="_blank">
+    <img src="https://shields.io" alt="Feedback Bot" />
   </a>
 </p>
